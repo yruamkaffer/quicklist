@@ -58,4 +58,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Built with 💚 by [Yruan Kaffer](https://github.com/yruamkaffer)
+Built with 💚 by [Yruam Kaffer](https://github.com/yruamkaffer)
